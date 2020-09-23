@@ -1,5 +1,8 @@
 _repo: The-Philosophical-Theory-of-the-State_63249
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bosanquet, Bernard
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/43732
     wikipedia: https://en.wikipedia.org/wiki/Bernard_Bosanquet_(philosopher)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63249#The-Philosophical-Theory-of-the-State
 gutenberg_issued: '2020-09-20'
 gutenberg_type: Text
 identifiers:
